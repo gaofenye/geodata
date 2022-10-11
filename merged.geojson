@@ -1,0 +1,5088 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96515324,-37.8134944 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":1,
+    "Count":902012,
+    "location":"(-37.8134944, 144.96515324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96515324,-37.8134944 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":1,
+    "Count":750077,
+    "location":"(-37.8134944, 144.96515324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96515324,-37.8134944 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":1,
+    "Count":787333,
+    "location":"(-37.8134944, 144.96515324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96515324,-37.8134944 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":1,
+    "Count":798262,
+    "location":"(-37.8134944, 144.96515324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96515324,-37.8134944 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":1,
+    "Count":800875,
+    "location":"(-37.8134944, 144.96515324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96515324,-37.8134944 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":1,
+    "Count":749352,
+    "location":"(-37.8134944, 144.96515324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96515324,-37.8134944 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":1,
+    "Count":845532,
+    "location":"(-37.8134944, 144.96515324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96515324,-37.8134944 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":1,
+    "Count":827025,
+    "location":"(-37.8134944, 144.96515324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96515324,-37.8134944 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":1,
+    "Count":395419,
+    "location":"(-37.8134944, 144.96515324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96515324,-37.8134944 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":1,
+    "Count":798950,
+    "location":"(-37.8134944, 144.96515324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96515324,-37.8134944 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":1,
+    "Count":732849,
+    "location":"(-37.8134944, 144.96515324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":2,
+    "Count":845036,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":2,
+    "Count":721774,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":2,
+    "Count":1144588,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":2,
+    "Count":713106,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":2,
+    "Count":795386,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":2,
+    "Count":773179,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":2,
+    "Count":715883,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":2,
+    "Count":787833,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":2,
+    "Count":755415,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":2,
+    "Count":832719,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":2,
+    "Count":788991,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96516719,-37.81380667 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":2,
+    "Count":721921,
+    "location":"(-37.81380667, 144.96516719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":3,
+    "Count":1015305,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":3,
+    "Count":1033709,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":3,
+    "Count":972818,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":3,
+    "Count":882554,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":3,
+    "Count":844635,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":3,
+    "Count":937819,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":3,
+    "Count":851433,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":3,
+    "Count":1083106,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":3,
+    "Count":982321,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":3,
+    "Count":954541,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":3,
+    "Count":997779,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96429485,-37.81101523 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":3,
+    "Count":943337,
+    "location":"(-37.81101523, 144.96429485)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":4,
+    "Count":1198193,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":4,
+    "Count":900157,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":4,
+    "Count":1419535,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":4,
+    "Count":1017371,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":4,
+    "Count":1100135,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":4,
+    "Count":836833,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":4,
+    "Count":1044960,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":4,
+    "Count":1151765,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":4,
+    "Count":1135069,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":4,
+    "Count":1173173,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":4,
+    "Count":1136206,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9660878,-37.81487988 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":4,
+    "Count":1067446,
+    "location":"(-37.81487988, 144.9660878)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":5,
+    "Count":777851,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":5,
+    "Count":730823,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":5,
+    "Count":804383,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":5,
+    "Count":696979,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":5,
+    "Count":752408,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":5,
+    "Count":724269,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":5,
+    "Count":655945,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":5,
+    "Count":844643,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":5,
+    "Count":709233,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":5,
+    "Count":793174,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":5,
+    "Count":753886,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96787656,-37.81874249 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":5,
+    "Count":706978,
+    "location":"(-37.81874249, 144.96787656)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":6,
+    "Count":615832,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":6,
+    "Count":622864,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":6,
+    "Count":750082,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":6,
+    "Count":587789,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":6,
+    "Count":633265,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":6,
+    "Count":629226,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":6,
+    "Count":568549,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":6,
+    "Count":645009,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":6,
+    "Count":623711,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":6,
+    "Count":658042,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":6,
+    "Count":687763,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96558256,-37.81911704 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":6,
+    "Count":626060,
+    "location":"(-37.81911704, 144.96558256)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97169395,-37.81862929 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":7,
+    "Count":218343,
+    "location":"(-37.81862929, 144.97169395)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97169395,-37.81862929 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":7,
+    "Count":228000,
+    "location":"(-37.81862929, 144.97169395)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97169395,-37.81862929 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":7,
+    "Count":261886,
+    "location":"(-37.81862929, 144.97169395)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97169395,-37.81862929 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":7,
+    "Count":60465,
+    "location":"(-37.81862929, 144.97169395)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97169395,-37.81862929 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":7,
+    "Count":190928,
+    "location":"(-37.81862929, 144.97169395)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":8,
+    "Count":122398,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":8,
+    "Count":113472,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":8,
+    "Count":117191,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":8,
+    "Count":121661,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":8,
+    "Count":122517,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":8,
+    "Count":113115,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":8,
+    "Count":109110,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":8,
+    "Count":136955,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":8,
+    "Count":126733,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":8,
+    "Count":111023,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":8,
+    "Count":124726,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94717511,-37.82293543 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":8,
+    "Count":114074,
+    "location":"(-37.82293543, 144.94717511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":9,
+    "Count":347244,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":9,
+    "Count":384123,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":9,
+    "Count":289198,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":9,
+    "Count":357766,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":9,
+    "Count":310696,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":9,
+    "Count":421537,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":9,
+    "Count":381402,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":9,
+    "Count":388435,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":9,
+    "Count":409417,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":9,
+    "Count":303630,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":9,
+    "Count":362347,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95102556,-37.81982992 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":9,
+    "Count":352961,
+    "location":"(-37.81982992, 144.95102556)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":10,
+    "Count":77321,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":10,
+    "Count":108668,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":10,
+    "Count":102206,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":10,
+    "Count":79527,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":10,
+    "Count":73489,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":10,
+    "Count":103986,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":10,
+    "Count":84854,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":10,
+    "Count":87545,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":10,
+    "Count":82834,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":10,
+    "Count":99428,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":10,
+    "Count":121896,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94710545,-37.81876473 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":10,
+    "Count":107994,
+    "location":"(-37.81876473, 144.94710545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":11,
+    "Count":103599,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":11,
+    "Count":75228,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":11,
+    "Count":94404,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":11,
+    "Count":85711,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":11,
+    "Count":122081,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":11,
+    "Count":62773,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":11,
+    "Count":46470,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":11,
+    "Count":72535,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":11,
+    "Count":59100,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":11,
+    "Count":75580,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":11,
+    "Count":70464,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93970695,-37.81564989 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":11,
+    "Count":58965,
+    "location":"(-37.81564989, 144.93970695)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":12,
+    "Count":147960,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":12,
+    "Count":170087,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":12,
+    "Count":197270,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":12,
+    "Count":145225,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":12,
+    "Count":172738,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":12,
+    "Count":135093,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":12,
+    "Count":107855,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":12,
+    "Count":160562,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":12,
+    "Count":125276,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":12,
+    "Count":153453,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":12,
+    "Count":171302,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94292398,-37.81457987 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":12,
+    "Count":140069,
+    "location":"(-37.81457987, 144.94292398)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":13,
+    "Count":517496,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":13,
+    "Count":565082,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":13,
+    "Count":488292,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":13,
+    "Count":548928,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":13,
+    "Count":419478,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":13,
+    "Count":565592,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":13,
+    "Count":532220,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":13,
+    "Count":568967,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":13,
+    "Count":597151,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":13,
+    "Count":525189,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":13,
+    "Count":611562,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95652653,-37.81239679 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":13,
+    "Count":572420,
+    "location":"(-37.81239679, 144.95652653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":14,
+    "Count":271887,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":14,
+    "Count":286147,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":14,
+    "Count":334994,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":14,
+    "Count":248942,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":14,
+    "Count":266632,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":14,
+    "Count":273374,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":14,
+    "Count":251456,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":14,
+    "Count":267129,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":14,
+    "Count":276297,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":14,
+    "Count":300340,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":14,
+    "Count":307910,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96291898,-37.82011242 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":14,
+    "Count":288276,
+    "location":"(-37.82011242, 144.96291898)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":15,
+    "Count":657197,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":15,
+    "Count":645445,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":15,
+    "Count":594606,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":15,
+    "Count":630463,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":15,
+    "Count":542542,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":15,
+    "Count":596390,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":15,
+    "Count":533163,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":15,
+    "Count":744602,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":15,
+    "Count":646025,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":15,
+    "Count":587433,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":15,
+    "Count":628859,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96447132,-37.81064378 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":15,
+    "Count":597154,
+    "location":"(-37.81064378, 144.96447132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96521044,-37.81573422 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":16,
+    "Count":537813,
+    "location":"(-37.81573422, 144.96521044)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96521044,-37.81573422 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":16,
+    "Count":498960,
+    "location":"(-37.81573422, 144.96521044)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96521044,-37.81573422 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":16,
+    "Count":505266,
+    "location":"(-37.81573422, 144.96521044)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96521044,-37.81573422 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":16,
+    "Count":402857,
+    "location":"(-37.81573422, 144.96521044)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96521044,-37.81573422 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":16,
+    "Count":541777,
+    "location":"(-37.81573422, 144.96521044)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96521044,-37.81573422 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":16,
+    "Count":535876,
+    "location":"(-37.81573422, 144.96521044)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":17,
+    "Count":311554,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":17,
+    "Count":350055,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":17,
+    "Count":310133,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":17,
+    "Count":321889,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":17,
+    "Count":305134,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":17,
+    "Count":348849,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":17,
+    "Count":313958,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":17,
+    "Count":342814,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":17,
+    "Count":355171,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":17,
+    "Count":315752,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":17,
+    "Count":368350,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97323592,-37.81362542 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":17,
+    "Count":340467,
+    "location":"(-37.81362542, 144.97323592)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":18,
+    "Count":232374,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":18,
+    "Count":254076,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":18,
+    "Count":225175,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":18,
+    "Count":243218,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":18,
+    "Count":208044,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":18,
+    "Count":263467,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":18,
+    "Count":234041,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":18,
+    "Count":251940,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":18,
+    "Count":263922,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":18,
+    "Count":229559,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":18,
+    "Count":263915,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97305354,-37.81344861 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":18,
+    "Count":255973,
+    "location":"(-37.81344861, 144.97305354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":19,
+    "Count":387249,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":19,
+    "Count":406955,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":19,
+    "Count":445928,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":19,
+    "Count":321058,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":19,
+    "Count":324574,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":19,
+    "Count":389247,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":19,
+    "Count":352785,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":19,
+    "Count":368760,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":19,
+    "Count":377351,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":19,
+    "Count":401695,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":19,
+    "Count":399167,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96550671,-37.81237202 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":19,
+    "Count":371959,
+    "location":"(-37.81237202, 144.96550671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":20,
+    "Count":288477,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":20,
+    "Count":285943,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":20,
+    "Count":282972,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":20,
+    "Count":243045,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":20,
+    "Count":240698,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":20,
+    "Count":283221,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":20,
+    "Count":254505,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":20,
+    "Count":269817,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":20,
+    "Count":273862,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":20,
+    "Count":255408,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":20,
+    "Count":271110,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9682466,-37.81172913 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":20,
+    "Count":263007,
+    "location":"(-37.81172913, 144.9682466)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":21,
+    "Count":202226,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":21,
+    "Count":409741,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":21,
+    "Count":437167,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":21,
+    "Count":416716,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":21,
+    "Count":382745,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":21,
+    "Count":399872,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":21,
+    "Count":372092,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":21,
+    "Count":438406,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":21,
+    "Count":399496,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":21,
+    "Count":389604,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":21,
+    "Count":388755,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96778757,-37.81244703 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":21,
+    "Count":384021,
+    "location":"(-37.81244703, 144.96778757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":22,
+    "Count":1069421,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":22,
+    "Count":1059926,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":22,
+    "Count":1163576,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":22,
+    "Count":992670,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":22,
+    "Count":1064733,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":22,
+    "Count":1060808,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":22,
+    "Count":986041,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":22,
+    "Count":1099678,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":22,
+    "Count":1071990,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":22,
+    "Count":1070165,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":22,
+    "Count":1096044,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96506823,-37.81786445 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":22,
+    "Count":1049304,
+    "location":"(-37.81786445, 144.96506823)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":23,
+    "Count":152187,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":23,
+    "Count":170276,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":23,
+    "Count":177680,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":23,
+    "Count":177843,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":23,
+    "Count":165471,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":23,
+    "Count":191929,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":23,
+    "Count":173322,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":23,
+    "Count":139254,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":23,
+    "Count":138555,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":23,
+    "Count":192112,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":23,
+    "Count":217354,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95452749,-37.81909256 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":23,
+    "Count":184117,
+    "location":"(-37.81909256, 144.95452749)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":24,
+    "Count":655581,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":24,
+    "Count":715768,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":24,
+    "Count":666334,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":24,
+    "Count":657325,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":24,
+    "Count":603608,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":24,
+    "Count":647752,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":24,
+    "Count":668900,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":24,
+    "Count":733306,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":24,
+    "Count":326202,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":24,
+    "Count":676891,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":24,
+    "Count":764954,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95449198,-37.81887962 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":24,
+    "Count":710906,
+    "location":"(-37.81887962, 144.95449198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":25,
+    "Count":325951,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":25,
+    "Count":329438,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":25,
+    "Count":209888,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":25,
+    "Count":283545,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":25,
+    "Count":307958,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":25,
+    "Count":289474,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":25,
+    "Count":278602,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":25,
+    "Count":346020,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":25,
+    "Count":297559,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":25,
+    "Count":359822,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":25,
+    "Count":335032,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95604426,-37.82401776 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":25,
+    "Count":314184,
+    "location":"(-37.82401776, 144.95604426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":26,
+    "Count":366161,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":26,
+    "Count":420375,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":26,
+    "Count":407486,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":26,
+    "Count":358290,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":26,
+    "Count":357232,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":26,
+    "Count":385030,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":26,
+    "Count":352352,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":26,
+    "Count":418101,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":26,
+    "Count":391726,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":26,
+    "Count":420356,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":26,
+    "Count":412812,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96049404,-37.80869542 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":26,
+    "Count":381729,
+    "location":"(-37.80869542, 144.96049404)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":27,
+    "Count":83729,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":27,
+    "Count":96036,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":27,
+    "Count":91933,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":27,
+    "Count":85810,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":27,
+    "Count":86068,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":27,
+    "Count":85892,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":27,
+    "Count":79686,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":27,
+    "Count":97342,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":27,
+    "Count":88410,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":27,
+    "Count":96878,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":27,
+    "Count":92022,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95644693,-37.80606888 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":27,
+    "Count":88834,
+    "location":"(-37.80606888, 144.95644693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":28,
+    "Count":592505,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":28,
+    "Count":626033,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":28,
+    "Count":617330,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":28,
+    "Count":576073,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":28,
+    "Count":606283,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":28,
+    "Count":620888,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":28,
+    "Count":571908,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":28,
+    "Count":679056,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":28,
+    "Count":604451,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":28,
+    "Count":575398,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":28,
+    "Count":476893,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96879309,-37.82129924 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":28,
+    "Count":610833,
+    "location":"(-37.82129924, 144.96879309)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":29,
+    "Count":323728,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":29,
+    "Count":185692,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":29,
+    "Count":286136,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":29,
+    "Count":243179,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":29,
+    "Count":362257,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":29,
+    "Count":159718,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":29,
+    "Count":209737,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":29,
+    "Count":463857,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":29,
+    "Count":54228,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":29,
+    "Count":339132,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":29,
+    "Count":356078,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96863453,-37.81965808 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":29,
+    "Count":259759,
+    "location":"(-37.81965808, 144.96863453)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":30,
+    "Count":277612,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":30,
+    "Count":385689,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":30,
+    "Count":392604,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":30,
+    "Count":297864,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":30,
+    "Count":292558,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":30,
+    "Count":378769,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":30,
+    "Count":285680,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":30,
+    "Count":333678,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":30,
+    "Count":249716,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":30,
+    "Count":364719,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":30,
+    "Count":376890,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96656807,-37.81121849 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":30,
+    "Count":357728,
+    "location":"(-37.81121849, 144.96656807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":31,
+    "Count":238048,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":31,
+    "Count":212147,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":31,
+    "Count":254510,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":31,
+    "Count":246408,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":31,
+    "Count":303274,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":31,
+    "Count":197852,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":31,
+    "Count":201028,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":31,
+    "Count":272514,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":31,
+    "Count":222383,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":31,
+    "Count":251162,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":31,
+    "Count":279421,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96658911,-37.8016968 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":31,
+    "Count":222232,
+    "location":"(-37.8016968, 144.96658911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":32,
+    "Count":866825,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":32,
+    "Count":705843,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":32,
+    "Count":1023518,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"February",
+    "sensor_id":32,
+    "Count":590744,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"January",
+    "sensor_id":32,
+    "Count":709047,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":32,
+    "Count":702447,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":32,
+    "Count":619128,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"March",
+    "sensor_id":32,
+    "Count":836980,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":32,
+    "Count":727790,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":32,
+    "Count":750766,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":32,
+    "Count":755152,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96685718,-37.81573742 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":32,
+    "Count":322830,
+    "location":"(-37.81573742, 144.96685718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97454056,-37.81483252 ]
+    },
+    "properties": {
+    "Month":"April",
+    "sensor_id":33,
+    "Count":23659,
+    "location":"(-37.81483252, 144.97454056)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97454056,-37.81483252 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":33,
+    "Count":91288,
+    "location":"(-37.81483252, 144.97454056)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97454056,-37.81483252 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":33,
+    "Count":78301,
+    "location":"(-37.81483252, 144.97454056)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97454056,-37.81483252 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":33,
+    "Count":91994,
+    "location":"(-37.81483252, 144.97454056)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97454056,-37.81483252 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":33,
+    "Count":85191,
+    "location":"(-37.81483252, 144.97454056)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97454056,-37.81483252 ]
+    },
+    "properties": {
+    "Month":"May",
+    "sensor_id":33,
+    "Count":100476,
+    "location":"(-37.81483252, 144.97454056)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97454056,-37.81483252 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":33,
+    "Count":83896,
+    "location":"(-37.81483252, 144.97454056)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97454056,-37.81483252 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":33,
+    "Count":96879,
+    "location":"(-37.81483252, 144.97454056)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97454056,-37.81483252 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":33,
+    "Count":90635,
+    "location":"(-37.81483252, 144.97454056)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9741505,-37.81537985 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":34,
+    "Count":100443,
+    "location":"(-37.81537985, 144.9741505)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9741505,-37.81537985 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":34,
+    "Count":101144,
+    "location":"(-37.81537985, 144.9741505)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9741505,-37.81537985 ]
+    },
+    "properties": {
+    "Month":"July",
+    "sensor_id":34,
+    "Count":100403,
+    "location":"(-37.81537985, 144.9741505)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9741505,-37.81537985 ]
+    },
+    "properties": {
+    "Month":"June",
+    "sensor_id":34,
+    "Count":68022,
+    "location":"(-37.81537985, 144.9741505)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9741505,-37.81537985 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":34,
+    "Count":107018,
+    "location":"(-37.81537985, 144.9741505)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9741505,-37.81537985 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":34,
+    "Count":109511,
+    "location":"(-37.81537985, 144.9741505)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9741505,-37.81537985 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":34,
+    "Count":107354,
+    "location":"(-37.81537985, 144.9741505)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96995745,-37.81379749 ]
+    },
+    "properties": {
+    "Month":"August",
+    "sensor_id":39,
+    "Count":36567,
+    "location":"(-37.81379749, 144.96995745)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96995745,-37.81379749 ]
+    },
+    "properties": {
+    "Month":"December",
+    "sensor_id":39,
+    "Count":141995,
+    "location":"(-37.81379749, 144.96995745)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96995745,-37.81379749 ]
+    },
+    "properties": {
+    "Month":"November",
+    "sensor_id":39,
+    "Count":133759,
+    "location":"(-37.81379749, 144.96995745)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96995745,-37.81379749 ]
+    },
+    "properties": {
+    "Month":"October",
+    "sensor_id":39,
+    "Count":148420,
+    "location":"(-37.81379749, 144.96995745)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96995745,-37.81379749 ]
+    },
+    "properties": {
+    "Month":"September",
+    "sensor_id":39,
+    "Count":133942,
+    "location":"(-37.81379749, 144.96995745)"
+    }
+  }
+]
+}
